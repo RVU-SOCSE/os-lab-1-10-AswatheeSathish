@@ -1,49 +1,3 @@
-Last login: Thu Mar 26 23:26:00 on console
-(base) aswatheesathish@Aswathees-MacBook-Air ~ % mkdir oscachu
-(base) aswatheesathish@Aswathees-MacBook-Air ~ % nano prog6.sh
-
-
-
-
-
-
-
-
-(base) aswatheesathish@Aswathees-MacBook-Air ~ % chmod +x prog6.sh
-(base) aswatheesathish@Aswathees-MacBook-Air ~ % ./prog6.sh
-Lab 6 : Directory Management
-./prog6.sh: line 35: syntax error near unexpected token `)'
-./prog6.sh: line 35: `4)'
-(base) aswatheesathish@Aswathees-MacBook-Air ~ % nano prog6.sh    
-(base) aswatheesathish@Aswathees-MacBook-Air ~ % nano prog6.sh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  UW PICO 5.09                                                    File: prog6.sh                                                    Modified  
-
 #!/bin/bash
 echo "Lab 6 : Directory Management"
 while true
@@ -83,6 +37,3 @@ fi
 echo "Exiting program..."
 break
 *)
-
-^G Get Help            ^O WriteOut            ^R Read File           ^Y Prev Pg             ^K Cut Text            ^C Cur Pos             
-^X Exit                ^J Justify             ^W Where is            ^V Next Pg             ^U UnCut Text          ^T To Spell            
